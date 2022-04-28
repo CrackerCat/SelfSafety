@@ -1,6 +1,6 @@
 # 安卓应用自我保护 · SelfSafety
 
-`SelfSafety`初衷是为安卓个人开发者提供一种简单的自我保护方案，以便让开发者自己更好的保护自己的应用程序。
+`SelfSafety`初衷是为安卓个人开发者提供一种简单的自我保护方案，以便让开发者能更好的保护自己的应用程序。
 本项目Releases版本将以SDK形式进行发布，以便更好的提高开发者的开发效率。
 
 由于自己开发时间极其有限，所以本项目进度提交会较慢，有兴趣的朋友可以加个星标，关注项目进度。
@@ -31,3 +31,26 @@
   
 后期可能会计划开发独立管理平台，以便实时管理应用程序保护状态、黑样本采集提交等。
 
+
+### MIT License
+> ```
+> Copyright (c) 2022 小五
+>
+> Permission is hereby granted, free of charge, to any person obtaining a copy
+> of this software and associated documentation files (the "Software"), to deal
+> in the Software without restriction, including without limitation the rights
+> to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+> copies of the Software, and to permit persons to whom the Software is
+> furnished to do so, subject to the following conditions:
+>
+> The above copyright notice and this permission notice shall be included in all
+> copies or substantial portions of the Software.
+
+> THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+> IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+> FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+> AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+> LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+> OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+> SOFTWARE.
+> ```
